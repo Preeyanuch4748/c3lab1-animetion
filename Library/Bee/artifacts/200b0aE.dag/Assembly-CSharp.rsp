@@ -352,6 +352,7 @@
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.37f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.37f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/pookky/pookky2/animation.cs"
+"Assets/pookky/pookky2/playerController.cs"
 "Assets/pookky/pookky2/scriptanimation.cs"
 -langversion:9.0
 /deterministic
